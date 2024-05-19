@@ -1,6 +1,6 @@
 # React YouTube Clone Web App
 
-A YouTube clone React app, utilizing Redux for state management and integrating YouTube's REST API to handle video data and other application state.
+YouTube clone React app, utilizing Redux for state management and integrating YouTube's REST API to handle video data and other application state.
 
 Technologies Used:
 - React.js
